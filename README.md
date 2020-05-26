@@ -29,4 +29,4 @@ This example follows the following basic conventions:
 
 ## PR Builds
 
-  Jenkins CI/CD  
+  Jenkins CI
