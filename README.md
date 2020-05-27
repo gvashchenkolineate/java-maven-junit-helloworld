@@ -31,6 +31,5 @@ This example follows the following basic conventions:
 
   Jenkins CI/CD
   Add another one branch to test PR build
-  add branch3
   add branch3 
   ...
