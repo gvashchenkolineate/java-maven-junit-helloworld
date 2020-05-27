@@ -35,5 +35,4 @@ This example follows the following basic conventions:
   ...
   new
   add b4
-  newline
   
