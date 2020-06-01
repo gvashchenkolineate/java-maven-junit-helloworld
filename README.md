@@ -34,3 +34,5 @@ This example follows the following basic conventions:
   add branch3 
   ...
   new
+  add b4
+  
